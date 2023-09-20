@@ -1,4 +1,4 @@
-
+#Firstly we set the ticket count to 2000, thefore all tickets created will go up from the number 2000. 
 class Ticket:
     counter = 2000  # Static field for ticket number counter
 
