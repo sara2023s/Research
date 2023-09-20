@@ -1,3 +1,7 @@
+#This is the second version of the Help Desk Ticketing system.
+#This version gives the user the ability to create, resolve, reopen, respond and display ticket information.
+#Its very user friendly and can be used by either staff, or the IT Team.
+
 from ticket import TicketSystem
 
 def main():
