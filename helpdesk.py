@@ -1,5 +1,5 @@
-#This is the first version to the Help Desk Ticketing system. One of the mani errors to the code is it does not give the user the ability to,
-#create, display, resolve, repoen, and respond to tickets. 
+#This is the first version to the Help Desk Ticketing system. 
+#One of the mani errors to the code is it does not give the user the ability to create, display, resolve, repoen, and respond to tickets. 
 
 from ticket import TicketSystem
 
